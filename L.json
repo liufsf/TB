@@ -3,7 +3,7 @@
 "description":"Magpie图标", 
 "icons":
     [
-	{"name":"Magpie-1", "url":"https://raw.githubusercontent.com/liufsf/TB/main/Magpie2.png"}
+	{"name":"Magpie-1", "url":"https://raw.githubusercontent.com/liufsf/TB/main/Magpie2.png"},
 	{"name":"Magpie-2", "url":"https://raw.githubusercontent.com/liufsf/TB/main/Magpie1.png"}    
     ]
 }
