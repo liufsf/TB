@@ -4,7 +4,7 @@
 "icons":
     [
       {"name":"Magpie-1", "url":"https://raw.githubusercontent.com/liufsf/TB/main/Magpie2.png"},
-      {"name":"Magpie-2", "url":"https://raw.githubusercontent.com/liufsf/TB/main/Magpie1.png"}
+      {"name":"Magpie-2", "url":"https://raw.githubusercontent.com/liufsf/TB/main/Magpie1.png"},
         {"name":"Emby", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/Emby.png"},
 	{"name":"Emby1", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/Emby1.png"},
 	{"name":"Jellyfin", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/Jellyfin.png"},
