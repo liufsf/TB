@@ -3,7 +3,10 @@
 "description":"个人图标", 
 "icons":
     [
-      {"name":"Magpie-1", "url":"https://raw.githubusercontent.com/liufsf/TB/main/Magpie2.png"},
-      {"name":"Magpie-2", "url":"https://raw.githubusercontent.com/liufsf/TB/main/Magpie1.png"},
+      {"name":"Magpie1", "url":"https://raw.githubusercontent.com/liufsf/TB/main/Magpie2.png"},
+      {"name":"Magpie2", "url":"https://raw.githubusercontent.com/liufsf/TB/main/Magpie1.png"},
+      {"name":"Magpie3", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/Magpie.png"},
+	  {"name":"Magpie4", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/Magpie1.png"},
+	  {"name":"Magpie5", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/YUAN/Magpie2.png"},
     ]
 }
